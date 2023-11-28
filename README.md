@@ -1,3 +1,5 @@
+## hyjack-00
+
 Hi there! 👋 I'm hyjack-00 (Jack Huang), a spirited CS undergrad at Sun Yat-sen University. Currently, I'm proudly donning the jersey as a member of the Sun Yat-sen University Supercomputing Team, and flexing my muscles in the Aero-Swift Team's Vision Division. 
 
 🚀 **My Interests:** 🚀
@@ -6,9 +8,10 @@ Hi there! 👋 I'm hyjack-00 (Jack Huang), a spirited CS undergrad at Sun Yat-se
 - I've dabbled in performance optimization on various architectures like x86, aarch64 (ARMv8), nvidia-CUDA, amd-CDNA, and even China's Sunway supercomputer. Mostly, it's been optimizing simple BLAS operators.
 - I'm also intrigued by speeding up training and inference of neural network models (especially the LLM), AI compilers, and heterogeneous computing devices.
 
-Let's have a virtual coffee and brainstorm on these exciting horizons!
+Waiting for you to have a virtual coffee and brainstorm together on these exciting horizons!
 
 📫 **How to Reach Me:**
+
 Feel free to drop me a message on [my student email](huangyj285@mail2.sysu.edu.cn). Let's make the virtual world a bit smaller together!
 
 <!--
